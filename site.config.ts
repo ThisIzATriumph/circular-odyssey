@@ -52,17 +52,17 @@ export default siteConfig({
   //navigationStyle: 'default'
   navigationStyle: 'custom',
   navigationLinks: [
-    {
-      title: 'Garden',
-      pageId: '87efffe7268241fba47dac05ad46dcb0'
-    },
-    {
-      title: 'Viewpoints',
-      pageId: '946949a287f84c8d8aacedb4577a8951'
-    },
+    // {
+    //   title: 'Garden',
+    //   pageId: '87efffe7268241fba47dac05ad46dcb0'
+    // },
+    // {
+    //   title: 'Viewpoints',
+    //   pageId: '946949a287f84c8d8aacedb4577a8951'
+    // },
     {
       title: 'About',
-      pageId: 'be25e82069684c909a722c1000f85b9a'
+      pageId: '157f65d417ec4ed6a341fcade5178820'
     },
     // {
     //   title: 'Contact',
