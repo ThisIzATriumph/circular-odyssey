@@ -2,7 +2,7 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '3e32c6077d8b4d699b8360e92124e284',
+  rootNotionPageId: 'd64869eabdea42f095dd3e8f1c1cd662',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Circular Odyssey',
-  domain: 'circular-basecamp.com',
+  domain: 'circular-odyssey.com',
   author: 'Baptiste Sene',
 
   // open graph metadata (optional)
