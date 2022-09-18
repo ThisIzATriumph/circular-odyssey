@@ -9,7 +9,7 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Circular Basecamp',
+  name: 'Circular Odyssey',
   domain: 'circular-basecamp.com',
   author: 'Baptiste Sene',
 
