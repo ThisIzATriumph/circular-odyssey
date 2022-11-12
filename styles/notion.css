@@ -431,7 +431,7 @@
 
 .homepage_link:hover {
     fill: rgb(55, 53, 47);
-    transform: scale(1.05);
+    transform: scale(1.10);
     opacity: 100%;
 }
 
