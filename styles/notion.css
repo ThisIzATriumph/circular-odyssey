@@ -144,7 +144,7 @@
 
 /* Main title (In each page!) */
 .notion-title {
-  font-family: CanelaDeck-Bold;
+  font-family: Lato thin 100;
   display: block;
   text-align: center;
 }
