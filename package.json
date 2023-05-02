@@ -71,12 +71,12 @@
   },
   "resolutions": {
     "next-api-og-image/chrome-aws-lambda": "10.1.0",
-    "next-api-og-image/puppeteer-core": "6.0.0"
+    "next-api-og-image/puppeteer-core": "19.11.1"
   },
   "overrides": {
     "next-api-og-image": {
       "chrome-aws-lambda": "10.1.0",
-      "puppeteer-core": "6.0.0"
+      "puppeteer-core": "19.11.1"
     },
     "cacheable-request": {
       "keyv": "npm:@keyvhq/core@~2.0.0"
