@@ -79,7 +79,7 @@
       "puppeteer-core": "6.0.0"
     },
     "cacheable-request": {
-      "keyv": "npm:@keyvhq/core@~2.0.0"
+      "keyv": "npm:@keyvhq/core@~1.6.6"
     }
   }
 }
