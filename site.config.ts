@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Circular Odyssey',
   domain: 'circular-odyssey.com',
-  author: 'Baptiste Sene',
+  author: 'Baptiste Sene-Donnais',
 
   // open graph metadata (optional)
   description: 'Baptiste Sene explores uncharted areas of the Circular design practice.',
